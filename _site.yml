@@ -1,0 +1,4 @@
+name: "Fish Art"
+output:
+  html_document:
+    theme: darkly
