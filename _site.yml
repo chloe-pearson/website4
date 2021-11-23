@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 name: "Chloe Pearson's Fish Art"
+=======
+name: "Fish Art"
+>>>>>>> 1882377f82c274f16f95838e93345de3b4873044
 output:
   html_document:
     theme: darkly
