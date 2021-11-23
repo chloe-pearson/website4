@@ -1,0 +1,4 @@
+name: "Chloe Pearson's Fish Art"
+output:
+  html_document:
+    theme: darkly

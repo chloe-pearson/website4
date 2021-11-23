@@ -1,0 +1,36 @@
+---
+title: "Something's a bit Fishy"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+<center>
+
+![**Blue Lumpfish**](Images/Fish/BlueLumpy.png)
+
+![**Green Lumpfish**](Images/Fish/GreenLumpy.png)
+
+![**Brown Lumpfish**](Images/Fish/BrownLumpy.png)
+
+![**Orange Lumpfish**](Images/Fish/OrangeLumpy (2).png)
+
+![**Cunner**](Images/Fish/Cunner.png)
+
+![**Little Skate**](Images/Fish/LittleSkate.png)
+
+![**Sea Raven**](Images/Fish/SeaRaven.png)
+
+![**Mackerel**](Images/Fish/Mackerel.png)
+
+![**Pollock**](Images/Fish/Pollock.png)
+
+
+![**Striper**](Images/Fish/Striper (1).png)
+
+
+![**Summer Flounder**](Images/Fish/SummerFlounder (1).png)
+
+
+![**Winter Flounder**](Images/Fish/WinterFlounder (2).png)
